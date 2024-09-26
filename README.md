@@ -1,18 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hailemariam</h1>
-<h3 align="center">A zealous fullstack developer looking for interesting projects to work on. I have completed a fullstack bootcamp in Hack Your Future.</h3>
 
-- 🔭 I’m currently working on **on my final project for HYF.**
+- 🔭 I’m currently looking for a frontend, backend, or full-stack roles.
 
-- 👯 I’m looking to collaborate on **interesting projects or startups**
-
-- 🤝 I’m looking for **internships and jobs**
-
-- 👨‍💻 All of my projects are available at [hailemariam7.github.io](hailemariam7.github.io)
+- 🤝 I’m looking for **internship or a job**
 
 - 📫 How to reach me **htsigabu@gmail.com**
 
-- 📄 Know about my experiences [hailemariam7.github.io/portfolio](hailemariam7.github.io/portfolio)
-  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
